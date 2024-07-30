@@ -4,22 +4,6 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
- table {
-    text-align: center;
-    width: 100%;
-    border-collapse: collapse;
-}
-
-th, td {
-    border: 1px solid black;
-    padding: 8px;
-    text-align: left;
-}
-
-th {
-    background-color: #f2f2f2;
-}
-
 body {
     font-size: 16px;
     overflow-x: hidden;
@@ -253,6 +237,32 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+
+table {
+    text-align: center;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+th, td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: left;
+    background-color: #ebebeb;
+}
+
+th {
+    background-color: #cfcfcf;
+}
+
+@media(min-width:1080px) {
+    table {
+        text-align: center;
+        width: 50%;
+        border-collapse: collapse;
+    }
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -364,7 +374,8 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 100px 0;
+        padding-top: 75px;
+        padding-bottom: 75px;
     }
 }
 
