@@ -10,7 +10,6 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Ronnie de Souza Santos
   pic: 1
-  color: ff6644
   position: Chair
   affiliation: University of Calgary
   social:
@@ -23,7 +22,6 @@ people:
 
 - name: Rodrigo Spínola
   pic: 2
-  color: feae2d
   position: Chair
   affiliation: Virginia Commonwealth University
   social:
@@ -36,7 +34,6 @@ people:
 
 - name: Felipe Fronchetti
   pic: 3
-  color: aacc22
   position: Web/Social Chair
   affiliation: Louisiana State University
   social:
