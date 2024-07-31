@@ -1,5 +1,4 @@
-url: https://fairnessworkshop.com/
-baseurl: /
+url: https://fairnessworkshop.com
 
 # Site settings
 title: 1s International Workshop on Software Fairness
@@ -34,7 +33,7 @@ people:
 
 - name: Felipe Fronchetti
   pic: 3
-  position: Social Chair
+  position: Web/Social Chair
   affiliation: Louisiana State University
   social:
     - title: twitter
@@ -43,6 +42,18 @@ people:
       url: https://www.linkedin.com/in/fronchat/
     - title: envelope
       url: mailto:fronchettl@vcu.edu
+
+- name: Cleyton Magalhães
+  pic: 4
+  position: Web/Social Chair
+  affiliation: Federal Rural University of Pernambuco
+  social:
+    - title: twitter
+      url: https://x.com/profcvanut
+    - title: linkedin
+      url: https://br.linkedin.com/in/cvanut
+    - title: envelope
+      url: mailto:cleyton.vanut@ufrpe.br
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:

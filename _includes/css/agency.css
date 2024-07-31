@@ -667,8 +667,15 @@ section h3.section-subheading {
     text-align: center;
 }
 
+.dropdown li {
+    font-weight: 400;
+    margin-bottom: 3px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
 .team-member img {
-    max-width: 60%; 
+    max-width: 40%; 
     height: auto;
     margin: 0 auto;
     border: 8px solid #ffffff;
