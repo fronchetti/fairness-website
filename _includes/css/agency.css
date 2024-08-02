@@ -343,6 +343,7 @@ header .intro-text .intro-heading {
     }
 
     header .intro-text {
+        text-align: right;
         padding-top: 200px;
         padding-bottom: 200px;
     }
