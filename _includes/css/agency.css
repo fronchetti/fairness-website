@@ -308,7 +308,6 @@ header {
 }
 
 .committee {
-    padding: 25px;
     border-radius: 5px;
     background-color: rgb(233, 233, 233);
 }
@@ -341,6 +340,10 @@ header .intro-text .intro-heading {
 }
 
 @media(min-width:768px) {
+    .committee {
+        padding: 25px;
+    }
+    
     .logo {
         display: block;
         max-width: 70%; 
