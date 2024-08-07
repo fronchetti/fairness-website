@@ -24,6 +24,11 @@ p {
     line-height: 1.75;
 }
 
+li {
+    line-height: 1.75;
+
+}
+
 p.large {
     font-size: 16px;
 }
@@ -343,7 +348,7 @@ header .intro-text .intro-heading {
     .committee {
         padding: 25px;
     }
-    
+
     .logo {
         display: block;
         max-width: 70%; 
