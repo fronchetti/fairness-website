@@ -307,6 +307,12 @@ header {
     -o-background-size: cover;
 }
 
+.committee {
+    padding: 25px;
+    border-radius: 5px;
+    background-color: rgb(233, 233, 233);
+}
+
 header .intro-text {
     text-align: center;
     padding-top: 150px;
